@@ -7,6 +7,7 @@ import About from '../pages/About'
 import Contact from '../pages/Contact'
 import AllBlogs from '../pages/Allblogs'
 import Shopfront from '../pages/Shopfront'
+import Disclamer from '../pages/Disclamer'
 
 // components imports
 import Blog from '../components/Blog'
@@ -22,6 +23,7 @@ const Links = () => {
         <Route path="/blog/:id" element={<Blog/>}/>
         <Route path='/genre' element={<BlogsViaGenres/>}/>
         <Route path='/shop' element={<Shopfront/>}/>
+        <Route path='/disclamer' element={<Disclamer/>}/>
     </Routes>
   )
 }

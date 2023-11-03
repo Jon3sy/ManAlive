@@ -60,6 +60,9 @@ const Header = () => {
             <li>
                 <Link to='/shop'>Donate</Link>
             </li>
+            <li>
+                <Link to='/disclamer'>Disclamer</Link>
+            </li>
         </ul>
 
         {/* Hamburger on desktop */}

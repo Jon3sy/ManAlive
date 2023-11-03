@@ -16,6 +16,7 @@ const Home = () => {
   <meta name='description' content='Dedicated to counseling men, boys, and families since 1996. Offering support, therapy, and non-profit programs to strengthen relationships and promote non-violence.' />
   <meta name='keywords' content='counselling, mens counseling, therapy, relationships, family, non-profit, compassion, counseling services, counseling programs, male youth, boys, violence, cultural diversity, Te Tiriti o Waitangi, sponsors, partners, blogs, testimonies' />
 </Helmet>
+
     <section className='container hero-container'> 
         <div id='hero-text-container'>
             <h1 className='header title-header'>COUNSELLING FOR MEN</h1>
